@@ -21,9 +21,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
 <img src="walkthroughlandscape.gif" width=250><br>
+<img src="walkthroughportrait.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app: Throughout the entire time working on the first assignment, Android Studio had been quite slow and often unresponsive at times.  Sometimes, the virtual device/emulator would not work or configure properly despite not showing any error message, and thus required to be restarted several times.
