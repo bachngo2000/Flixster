@@ -23,7 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="walkthroughlandscape.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app: Throughout the entire time working on the first assignment, Android Studio had been quite slow and often unresponsive at times.  Sometimes, the virtual device/emulator would not work or configure properly despite not showing any error message, and thus required to be restarted several times.
